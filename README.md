@@ -4,8 +4,6 @@
 >
 > A vertical rental discovery & booking platform for interns and young professionals in China. Web/H5 and native iOS app are live (iOS on the App Store).
 
-**官网：** 【待填：官网链接】 · **App Store：** 【待填：App Store 链接】
-
 ![App 截图](screenshots/00-overview.jpg)
 
 ---
